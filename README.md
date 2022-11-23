@@ -6,7 +6,7 @@ An application that returns an amazon.com top search result through a discord bo
 
 ## Usage
 
-Try it out: https://discord.gg/gsQP7UXZ6E
+Try it out: https://discord.gg/hsBSpKdjuf
 
 Enter in textbox: !amazon 'search-query'
 
