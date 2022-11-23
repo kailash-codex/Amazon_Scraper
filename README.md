@@ -28,3 +28,7 @@ Application is deployed on Heroku for 24/7 application responsivity.
 ## Future Plans
   
 The plan is to expand this project into returning products from other websites such as Target, Walmart, and more.
+
+## Note
+
+Code in this repository does excludes bot token and channel code for safety reasons. A duplicate repository, that is private, contains the bot token and channel id, and is the actual repository that is being hosted.
