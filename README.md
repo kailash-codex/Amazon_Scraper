@@ -6,7 +6,7 @@ An application that returns an amazon.com top search result through a discord bo
 
 Try it out: https://discord.gg/gsQP7UXZ6E
 
-Enter in textbox: !amazon <search-query>
+Enter in textbox: !amazon 'search-query'
 
 
 ## How
@@ -17,7 +17,7 @@ The HTML code of a search query is turned into a parse tree and navigated for in
 
 Through this, product title, price, image, ratings, number of ratings, and link to the product are collected.
 
-Through discord.py packages, an asynchronous function returns product information that is displayed in a discord channel upon the event a user types !amazon <search-query>.
+Through discord.py packages, an asynchronous function returns product information that is displayed in a discord channel upon the event a user types !amazon 'search-query'.
   
 Error cases are handled for invalid searches, where 'An error occurred with your request.' is returned
   
